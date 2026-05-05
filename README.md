@@ -1,16 +1,56 @@
-# My Portfolio Wesbite by @red1-for-hek - Overview 🚀
-Here is my 3d portfolio website. I am a developer/programmer/coder. You can use it as portfolio template.
-this contain AI, Machine Learning, Advance chess playing model too. Made by Python, HTML, CSS, JS, TS, React etc.
-If you are copying this code or forking this repo, please give a credit of my name :(
+# 🚀 Lucas Gomes — Portfolio
 
-## Instructions 🛠️
+<p align="center">
+  <a href="https://portfoliogomes.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Acessar%20Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-Go to www.redoyanulhaque.me/ and rate it :)
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/gomeslxy/portfolio-gomes?style=flat-square" />
+  <img src="https://img.shields.io/github/repo-size/gomeslxy/portfolio-gomes?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/gomeslxy/portfolio-gomes?style=flat-square" />
+</p>
 
-**Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
+---
 
-- [Protfolio-Preview](https://www.redoyanulhaque.me/)
+## 💻 Sobre o projeto
 
-## License
+Este é meu portfólio pessoal, desenvolvido para apresentar meus projetos, habilidades e evolução como desenvolvedor.
 
-This project is open source and available under the [MIT License](LICENSE).
+O foco foi criar uma experiência moderna, interativa e visualmente diferenciada, fugindo do padrão básico.
+
+---
+
+## ✨ Destaques
+
+- 🎯 Interface moderna e responsiva  
+- 🧠 Experiência interativa com 3D  
+- ⚡ Performance otimizada  
+- 🎨 Design limpo e profissional  
+
+---
+
+## 🛠️ Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,threejs,tailwind,vercel" />
+</p>
+
+---
+
+## 📸 Preview
+
+<p align="center">
+  <img src="./public/preview.png" alt="preview do projeto" width="100%" />
+</p>
+
+---
+
+## 🚀 Rodando localmente
+
+```bash
+git clone https://github.com/gomeslxy/portfolio-gomes.git
+cd portfolio-gomes
+npm install
+npm run dev
