@@ -39,14 +39,6 @@ O foco foi criar uma experiência moderna, interativa e visualmente diferenciada
 
 ---
 
-## 📸 Preview
-
-<p align="center">
-  <img src="./public/preview.png" alt="preview do projeto" width="100%" />
-</p>
-
----
-
 ## 🚀 Rodando localmente
 
 ```bash
